@@ -180,7 +180,7 @@ def main():
         # Git operations
         os.chdir(REPO_PATH)
         os.system("git pull --rebase origin main")  # Avoid conflicts
-        os.system(f"git add {json_file} {csv_file}")
+        os.system(f"git add {json_file} {csv_file} README.md")
         os.system(f'git commit -m "Zabbix metrics update: {timestamp}"')
         os.system("git push origin main")
     except Exception as e:
