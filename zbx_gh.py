@@ -133,7 +133,7 @@ def main():
     
     	# Prepare data
         # all_metrics = []
-        # timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M")
+        timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M")
         # Filter sensitive data
         filtered_metrics = []
         for host in hosts:
@@ -146,7 +146,7 @@ def main():
                     "metric": item["name"],
                     "value": item["lastvalue"],
                     "units": item["units"],
-                    "timestamp": datetime.fromtimestamp(int(item["lastclock"])).isoformat()
+                    "timestamp": timestamp
                 })
                 # all_metrics.append({
                     # "host": host["host"],
@@ -164,14 +164,14 @@ def main():
         json_file = f"data/{timestamp}.json"
         os.makedirs(os.path.dirname(json_file), exist_ok=True)
         with open(json_file, "w") as f:
-            json.dump(all_metrics, f, indent=2)
+            json.dump(filtered_metrics, f, indent=2)
 
         # Save as CSV
         csv_file = f"data/{timestamp}.csv"
         with open(csv_file, "w", newline="") as f:
             writer = csv.DictWriter(f, fieldnames=["host", "metric", "value", "units", "timestamp"])
             writer.writeheader()
-            writer.writerows(all_metrics)
+            writer.writerows(filtered_metrics)
 
         # Git operations
         os.chdir(REPO_PATH)
