@@ -20,7 +20,7 @@ headers = {
 # Fields to redact (case-insensitive)
 REDACTED_FIELDS = {
     'system name', 'system description', 'host name',
-    'ip address', 'mac address'
+    'ip address', 'mac address', 'serial number', 'redacted'
 }
 
 # --------------------------------------
@@ -57,7 +57,9 @@ def zabbix_login():
         exit(1)
 
 def should_redact(metric_name):
-    return any(field in metric_name.lower() for field in REDACTED_FIELDS)
+    """Check if metric should be completely excluded"""
+    metric_lower = metric_name.lower()
+    return any(field in metric_lower for field in REDACTED_FIELDS)
 
 def zabbix_get_hosts():
     """Fetch all monitored hosts"""
@@ -141,6 +143,8 @@ def main():
             for item in items:
                 if should_redact(item["name"]):
                     item["name"] = "REDACTED"
+                    item["lastvalue"] = "REDACTED"
+
                 filtered_metrics.append({
                     "host": "[redacted]",  # Anonymize host name
                     "metric": item["name"],
