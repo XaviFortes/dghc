@@ -104,7 +104,7 @@ def generate_readme(metrics_count):
 ## Dataset Info
 - Last Updated: {datetime.now().strftime("%Y-%m-%d %H:%M UTC")}
 - Total Metrics Collected: {metrics_count}
-- Update Frequency: Every 3 hours
+- Update Frequency: Every (1) hour
 
 ## Data Structure
 ```json
