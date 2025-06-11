@@ -3,7 +3,7 @@
 ⚠️ **Note**: Sensitive fields like hostnames and system descriptions are redacted.
 
 ## Dataset Info
-- Last Updated: 2025-06-10 23:00 UTC
+- Last Updated: 2025-06-11 00:00 UTC
 - Total Metrics Collected: 1130
 - Update Frequency: Every (1) hour
 
