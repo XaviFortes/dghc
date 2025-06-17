@@ -1,0 +1,1034 @@
+host,metric,value,units,timestamp
+[redacted],Total memory,8127234048,B,2025-06-17_21-00
+[redacted],REDACTED,REDACTED,,2025-06-17_21-00
+[redacted],Free swap space,0,B,2025-06-17_21-00
+[redacted],CPU system time,3.534002,%,2025-06-17_21-00
+[redacted],CPU user time,3.98766,%,2025-06-17_21-00
+[redacted],REDACTED,REDACTED,,2025-06-17_21-00
+[redacted],System local time,1750193968,unixtime,2025-06-17_21-00
+[redacted],Operating system architecture,x86_64,,2025-06-17_21-00
+[redacted],Operating system,"Linux version 6.1.0-28-amd64 (debian-kernel@lists.debian.org) (gcc-12 (Debian 12.2.0-14) 12.2.0, GNU ld (GNU Binutils for Debian) 2.40) #1 SMP PREEMPT_DYNAMIC Debian 6.1.119-1 (2024-11-22)",,2025-06-17_21-00
+[redacted],Number of installed packages,438,,2025-06-17_21-00
+[redacted],Free swap space in %,100,%,2025-06-17_21-00
+[redacted],Zabbix agent ping,1,,2025-06-17_21-00
+[redacted],Total swap space,0,B,2025-06-17_21-00
+[redacted],REDACTED,REDACTED,,2025-06-17_21-00
+[redacted],System uptime,9503154,uptime,2025-06-17_21-00
+[redacted],Number of logged in users,1,,2025-06-17_21-00
+[redacted],Checksum of /etc/passwd,db173fe00e4d09ed43fe1f205fbe4637ce34db66df51b68bbe0e7e97cae0638f,,2025-06-17_21-00
+[redacted],Available memory,5002166272,B,2025-06-17_21-00
+[redacted],Available memory in %,61.5482,%,2025-06-17_21-00
+[redacted],CPU steal time,0,%,2025-06-17_21-00
+[redacted],CPU softirq time,0.34425,%,2025-06-17_21-00
+[redacted],CPU nice time,0,%,2025-06-17_21-00
+[redacted],Load average (1m avg),0.337891,,2025-06-17_21-00
+[redacted],Version of Zabbix agent running,7.2.4,,2025-06-17_21-00
+[redacted],Maximum number of open file descriptors,9223372036854775807,,2025-06-17_21-00
+[redacted],Maximum number of processes,4194304,,2025-06-17_21-00
+[redacted],Number of processes,150,,2025-06-17_21-00
+[redacted],Number of running processes,1,,2025-06-17_21-00
+[redacted],System boot time,1740690822,unixtime,2025-06-17_21-00
+[redacted],Interrupts per second,16510.78806305923,,2025-06-17_21-00
+[redacted],Load average (5m avg),0.358398,,2025-06-17_21-00
+[redacted],CPU iowait time,0.018124,%,2025-06-17_21-00
+[redacted],Load average (15m avg),0.368164,,2025-06-17_21-00
+[redacted],Number of CPUs,4,,2025-06-17_21-00
+[redacted],Context switches per second,32444.018701921577,,2025-06-17_21-00
+[redacted],CPU guest time,0,%,2025-06-17_21-00
+[redacted],CPU guest nice time,0,%,2025-06-17_21-00
+[redacted],CPU idle time,91.943815,%,2025-06-17_21-00
+[redacted],CPU interrupt time,0,%,2025-06-17_21-00
+[redacted],Zabbix agent availability,1,,2025-06-17_21-00
+[redacted],Get filesystems,,,2025-06-17_21-00
+[redacted],CPU utilization,8.056185,%,2025-06-17_21-00
+[redacted],Memory utilization,38.4518,%,2025-06-17_21-00
+[redacted],FS [/]: Get data,"{""fsname"":""/"",""options"":""rw,relatime,errors=remount-ro"",""bytes"":{""used"":13192982528,""free"":63814377472,""total"":80321626112,""pused"":17.132106,""pfree"":82.867894},""fstype"":""ext4"",""inodes"":{""used"":140318,""free"":4741426,""total"":4881744,""pused"":2.874342,""pfree"":97.125658}}",,2025-06-17_21-00
+[redacted],FS [/]: Space: Available,63814377472,B,2025-06-17_21-00
+[redacted],FS [/]: Option: Read-only,0,,2025-06-17_21-00
+[redacted],FS [/]: Space: Used,13192982528,B,2025-06-17_21-00
+[redacted],FS [/]: Space: Total,80321626112,B,2025-06-17_21-00
+[redacted],"FS [/]: Space: Used, in %",17.132106,%,2025-06-17_21-00
+[redacted],"FS [/]: Inodes: Free, in %",97.125658,%,2025-06-17_21-00
+[redacted],Interface eth0: Bits received,5328,bps,2025-06-17_21-00
+[redacted],Interface tailscale0: Bits received,816,bps,2025-06-17_21-00
+[redacted],Interface pterodactyl0: Bits received,0,bps,2025-06-17_21-00
+[redacted],Interface eth0: Outbound packets discarded,0,,2025-06-17_21-00
+[redacted],Interface tailscale0: Outbound packets discarded,0,,2025-06-17_21-00
+[redacted],Interface pterodactyl0: Outbound packets discarded,0,,2025-06-17_21-00
+[redacted],Interface eth0: Inbound packets discarded,0,,2025-06-17_21-00
+[redacted],Interface tailscale0: Inbound packets discarded,0,,2025-06-17_21-00
+[redacted],Interface pterodactyl0: Inbound packets discarded,0,,2025-06-17_21-00
+[redacted],Interface eth0: Inbound packets with errors,0,,2025-06-17_21-00
+[redacted],Interface tailscale0: Inbound packets with errors,0,,2025-06-17_21-00
+[redacted],Interface pterodactyl0: Inbound packets with errors,0,,2025-06-17_21-00
+[redacted],Interface eth0: Outbound packets with errors,0,,2025-06-17_21-00
+[redacted],Interface tailscale0: Outbound packets with errors,0,,2025-06-17_21-00
+[redacted],Interface pterodactyl0: Outbound packets with errors,0,,2025-06-17_21-00
+[redacted],Interface eth0: Bits sent,7024,bps,2025-06-17_21-00
+[redacted],Interface tailscale0: Bits sent,96,bps,2025-06-17_21-00
+[redacted],Interface pterodactyl0: Bits sent,0,bps,2025-06-17_21-00
+[redacted],Interface eth0: Operational status,6,,2025-06-17_21-00
+[redacted],Interface tailscale0: Operational status,0,,2025-06-17_21-00
+[redacted],Interface pterodactyl0: Operational status,6,,2025-06-17_21-00
+[redacted],Interface eth0: Interface type,1,,2025-06-17_21-00
+[redacted],Interface tailscale0: Interface type,65534,,2025-06-17_21-00
+[redacted],Interface pterodactyl0: Interface type,1,,2025-06-17_21-00
+[redacted],Interface pterodactyl0: Speed,10000000000,bps,2025-06-17_21-00
+[redacted],sda: Get stats,,,2025-06-17_21-00
+[redacted],sda: Disk write time (rate),0.0022152749507042815,,2025-06-17_21-00
+[redacted],sda: Disk write rate,2.674739384924429,!w/s,2025-06-17_21-00
+[redacted],sda: Disk utilization,0.03281888815858195,%,2025-06-17_21-00
+[redacted],sda: Disk read time (rate),0,,2025-06-17_21-00
+[redacted],sda: Disk read rate,0,!r/s,2025-06-17_21-00
+[redacted],sda: Disk average queue size (avgqu-sz),0.0022973221711007365,,2025-06-17_21-00
+[redacted],sda: Disk read request avg waiting time (r_await),0,!ms,2025-06-17_21-00
+[redacted],sda: Disk write request avg waiting time (w_await),0.8299999999999998,!ms,2025-06-17_21-00
+[redacted],Total memory,67343822848,B,2025-06-17_21-00
+[redacted],REDACTED,REDACTED,,2025-06-17_21-00
+[redacted],Free swap space,34325131264,B,2025-06-17_21-00
+[redacted],CPU system time,0.19519,%,2025-06-17_21-00
+[redacted],CPU user time,0.038621,%,2025-06-17_21-00
+[redacted],REDACTED,REDACTED,,2025-06-17_21-00
+[redacted],System local time,1750194000,unixtime,2025-06-17_21-00
+[redacted],Operating system architecture,x86_64,,2025-06-17_21-00
+[redacted],Operating system,"Linux version 6.8.12-11-pve (build@proxmox) (gcc (Debian 12.2.0-14+deb12u1) 12.2.0, GNU ld (GNU Binutils for Debian) 2.40) #1 SMP PREEMPT_DYNAMIC PMX 6.8.12-11 (2025-05-22T09:39Z)",,2025-06-17_21-00
+[redacted],Number of installed packages,683,,2025-06-17_21-00
+[redacted],Free swap space in %,100,%,2025-06-17_21-00
+[redacted],Zabbix agent ping,1,,2025-06-17_21-00
+[redacted],Total swap space,34325131264,B,2025-06-17_21-00
+[redacted],REDACTED,REDACTED,,2025-06-17_21-00
+[redacted],System uptime,176050,uptime,2025-06-17_21-00
+[redacted],Number of logged in users,2,,2025-06-17_21-00
+[redacted],Checksum of /etc/passwd,4c299dc48842bb184e5f87aff0edcb97211d5873c0cb8c2360763d631cda3d6a,,2025-06-17_21-00
+[redacted],Available memory,64479948800,B,2025-06-17_21-00
+[redacted],Available memory in %,95.747384,%,2025-06-17_21-00
+[redacted],CPU steal time,0,%,2025-06-17_21-00
+[redacted],CPU softirq time,0.001044,%,2025-06-17_21-00
+[redacted],CPU nice time,0,%,2025-06-17_21-00
+[redacted],Load average (1m avg),0.194824,,2025-06-17_21-00
+[redacted],Version of Zabbix agent running,7.2.7,,2025-06-17_21-00
+[redacted],Maximum number of open file descriptors,9223372036854775807,,2025-06-17_21-00
+[redacted],Maximum number of processes,4194304,,2025-06-17_21-00
+[redacted],Number of processes,397,,2025-06-17_21-00
+[redacted],Number of running processes,0,,2025-06-17_21-00
+[redacted],System boot time,1750017928,unixtime,2025-06-17_21-00
+[redacted],Interrupts per second,16236.06289263193,,2025-06-17_21-00
+[redacted],Load average (5m avg),0.144531,,2025-06-17_21-00
+[redacted],CPU iowait time,0.011482,%,2025-06-17_21-00
+[redacted],Load average (15m avg),0.070312,,2025-06-17_21-00
+[redacted],Number of CPUs,16,,2025-06-17_21-00
+[redacted],Context switches per second,719.756465044504,,2025-06-17_21-00
+[redacted],CPU guest time,0,%,2025-06-17_21-00
+[redacted],CPU guest nice time,0,%,2025-06-17_21-00
+[redacted],CPU idle time,99.75262,%,2025-06-17_21-00
+[redacted],CPU interrupt time,0,%,2025-06-17_21-00
+[redacted],Zabbix agent availability,1,,2025-06-17_21-00
+[redacted],Get filesystems,,,2025-06-17_21-00
+[redacted],CPU utilization,0.24738000000000682,%,2025-06-17_21-00
+[redacted],Memory utilization,4.252616000000003,%,2025-06-17_21-00
+[redacted],Interface enp9s0: Bits received,14056,bps,2025-06-17_21-00
+[redacted],Interface vmbr1: Bits received,4432,bps,2025-06-17_21-00
+[redacted],Interface enp9s0: Outbound packets discarded,0,,2025-06-17_21-00
+[redacted],Interface vmbr1: Outbound packets discarded,0,,2025-06-17_21-00
+[redacted],Interface enp9s0: Inbound packets discarded,0,,2025-06-17_21-00
+[redacted],Interface vmbr1: Inbound packets discarded,0,,2025-06-17_21-00
+[redacted],Interface enp9s0: Inbound packets with errors,0,,2025-06-17_21-00
+[redacted],Interface vmbr1: Inbound packets with errors,0,,2025-06-17_21-00
+[redacted],Interface enp9s0: Outbound packets with errors,0,,2025-06-17_21-00
+[redacted],Interface vmbr1: Outbound packets with errors,0,,2025-06-17_21-00
+[redacted],Interface enp9s0: Bits sent,8392,bps,2025-06-17_21-00
+[redacted],Interface vmbr1: Bits sent,4912,bps,2025-06-17_21-00
+[redacted],Interface enp9s0: Operational status,6,,2025-06-17_21-00
+[redacted],Interface vmbr1: Operational status,6,,2025-06-17_21-00
+[redacted],Interface enp9s0: Interface type,1,,2025-06-17_21-00
+[redacted],Interface vmbr1: Interface type,1,,2025-06-17_21-00
+[redacted],Interface enp9s0: Speed,1000000000,bps,2025-06-17_21-00
+[redacted],Interface vmbr1: Speed,10000000000,bps,2025-06-17_21-00
+[redacted],nvme0n1: Get stats,,,2025-06-17_21-00
+[redacted],nvme0n1: Disk write time (rate),0.012382817499415437,,2025-06-17_21-00
+[redacted],nvme0n1: Disk write rate,17.732594642500704,!w/s,2025-06-17_21-00
+[redacted],nvme0n1: Disk utilization,1.0332902893186502,%,2025-06-17_21-00
+[redacted],nvme0n1: Disk read time (rate),0,,2025-06-17_21-00
+[redacted],nvme0n1: Disk read rate,0,!r/s,2025-06-17_21-00
+[redacted],nvme0n1: Disk average queue size (avgqu-sz),0.02218240927553425,,2025-06-17_21-00
+[redacted],nvme1n1: Get stats,,,2025-06-17_21-00
+[redacted],nvme1n1: Disk write time (rate),0.012100168162893723,,2025-06-17_21-00
+[redacted],nvme1n1: Disk write rate,16.983569363620802,!w/s,2025-06-17_21-00
+[redacted],nvme1n1: Disk utilization,1.01001403673741,%,2025-06-17_21-00
+[redacted],nvme1n1: Disk read time (rate),0,,2025-06-17_21-00
+[redacted],nvme1n1: Disk read rate,0,!r/s,2025-06-17_21-00
+[redacted],nvme1n1: Disk average queue size (avgqu-sz),0.021633633988203924,,2025-06-17_21-00
+[redacted],FS [/]: Get data,"{""fsname"":""/"",""options"":""rw,relatime"",""bytes"":{""used"":25260851200,""free"":897258610688,""total"":971968172032,""pused"":2.7382458846236091,""pfree"":97.261754115376391},""fstype"":""ext4"",""inodes"":{""used"":64143,""free"":60278129,""total"":60342272,""pused"":0.10629861600173092,""pfree"":99.893701383998263}}",,2025-06-17_21-00
+[redacted],FS [/]: Space: Available,897258610688,B,2025-06-17_21-00
+[redacted],FS [/]: Option: Read-only,0,,2025-06-17_21-00
+[redacted],FS [/]: Space: Used,25260851200,B,2025-06-17_21-00
+[redacted],FS [/]: Space: Total,971968172032,B,2025-06-17_21-00
+[redacted],"FS [/]: Space: Used, in %",2.738245884623609,%,2025-06-17_21-00
+[redacted],"FS [/]: Inodes: Free, in %",99.89370138399826,%,2025-06-17_21-00
+[redacted],FS [/boot]: Get data,"{""fsname"":""/boot"",""options"":""rw,relatime"",""bytes"":{""used"":218030080,""free"":765116416,""total"":1036726272,""pused"":22.176764183880081,""pfree"":77.823235816119919},""fstype"":""ext3"",""inodes"":{""used"":647,""free"":64761,""total"":65408,""pused"":0.98917563600782776,""pfree"":99.010824363992171}}",,2025-06-17_21-00
+[redacted],FS [/boot]: Space: Available,765116416,B,2025-06-17_21-00
+[redacted],FS [/boot]: Option: Read-only,0,,2025-06-17_21-00
+[redacted],FS [/boot]: Space: Used,218030080,B,2025-06-17_21-00
+[redacted],FS [/boot]: Space: Total,1036726272,B,2025-06-17_21-00
+[redacted],"FS [/boot]: Space: Used, in %",22.17676418388008,%,2025-06-17_21-00
+[redacted],"FS [/boot]: Inodes: Free, in %",99.01082436399217,%,2025-06-17_21-00
+[redacted],nvme1n1: Disk read request avg waiting time (r_await),0,!ms,2025-06-17_21-00
+[redacted],nvme0n1: Disk write request avg waiting time (w_await),0.6948968512486426,!ms,2025-06-17_21-00
+[redacted],nvme0n1: Disk read request avg waiting time (r_await),0,!ms,2025-06-17_21-00
+[redacted],nvme1n1: Disk write request avg waiting time (w_await),0.6845915201654602,!ms,2025-06-17_21-00
+[redacted],Total memory,6212505600,B,2025-06-17_21-00
+[redacted],REDACTED,REDACTED,,2025-06-17_21-00
+[redacted],Free swap space,0,B,2025-06-17_21-00
+[redacted],CPU system time,1.551168,%,2025-06-17_21-00
+[redacted],CPU user time,2.959795,%,2025-06-17_21-00
+[redacted],REDACTED,REDACTED,,2025-06-17_21-00
+[redacted],System local time,1750193962,unixtime,2025-06-17_21-00
+[redacted],Operating system architecture,x86_64,,2025-06-17_21-00
+[redacted],Operating system,"Linux version 6.1.0-30-amd64 (debian-kernel@lists.debian.org) (gcc-12 (Debian 12.2.0-14) 12.2.0, GNU ld (GNU Binutils for Debian) 2.40) #1 SMP PREEMPT_DYNAMIC Debian 6.1.124-1 (2025-01-12)",,2025-06-17_21-00
+[redacted],Number of installed packages,1116,,2025-06-17_21-00
+[redacted],Free swap space in %,100,%,2025-06-17_21-00
+[redacted],Zabbix agent ping,1,,2025-06-17_21-00
+[redacted],Total swap space,0,B,2025-06-17_21-00
+[redacted],REDACTED,REDACTED,,2025-06-17_21-00
+[redacted],System uptime,243058,uptime,2025-06-17_21-00
+[redacted],Number of logged in users,0,,2025-06-17_21-00
+[redacted],Checksum of /etc/passwd,97a220aa309785c208bd7ef440e3ab5c32967af27ead18a5bdc912d5cf4baa22,,2025-06-17_21-00
+[redacted],Available memory,1280335872,B,2025-06-17_21-00
+[redacted],Available memory in %,20.60901,%,2025-06-17_21-00
+[redacted],CPU steal time,0,%,2025-06-17_21-00
+[redacted],CPU softirq time,0.180309,%,2025-06-17_21-00
+[redacted],CPU nice time,0,%,2025-06-17_21-00
+[redacted],Connections sum: Active,1,,2025-06-17_21-00
+[redacted],Connections sum: Disabled,0,,2025-06-17_21-00
+[redacted],Connections sum: Fastpath function call,0,,2025-06-17_21-00
+[redacted],Load average (1m avg),0.79248,,2025-06-17_21-00
+[redacted],Version of Zabbix agent running,7.2.5,,2025-06-17_21-00
+[redacted],Maximum number of open file descriptors,9223372036854775807,,2025-06-17_21-00
+[redacted],Maximum number of processes,4194304,,2025-06-17_21-00
+[redacted],Number of processes,328,,2025-06-17_21-00
+[redacted],Number of running processes,1,,2025-06-17_21-00
+[redacted],System boot time,1749950943,unixtime,2025-06-17_21-00
+[redacted],Interrupts per second,945.6211110701283,,2025-06-17_21-00
+[redacted],Load average (5m avg),0.898438,,2025-06-17_21-00
+[redacted],CPU iowait time,0.012577,%,2025-06-17_21-00
+[redacted],Load average (15m avg),0.672363,,2025-06-17_21-00
+[redacted],Number of CPUs,4,,2025-06-17_21-00
+[redacted],Context switches per second,1589.545497311673,,2025-06-17_21-00
+[redacted],CPU guest time,0,%,2025-06-17_21-00
+[redacted],CPU guest nice time,0,%,2025-06-17_21-00
+[redacted],CPU idle time,95.396998,%,2025-06-17_21-00
+[redacted],CPU interrupt time,0,%,2025-06-17_21-00
+[redacted],Zabbix agent availability,1,,2025-06-17_21-00
+[redacted],Get filesystems,,,2025-06-17_21-00
+[redacted],CPU utilization,4.603002000000004,%,2025-06-17_21-00
+[redacted],Memory utilization,79.39099,%,2025-06-17_21-00
+[redacted],Interface eth0: Bits received,40520,bps,2025-06-17_21-00
+[redacted],Interface tailscale0: Bits received,2768,bps,2025-06-17_21-00
+[redacted],Interface eth0: Outbound packets discarded,0,,2025-06-17_21-00
+[redacted],Interface tailscale0: Outbound packets discarded,0,,2025-06-17_21-00
+[redacted],Interface eth0: Inbound packets discarded,0,,2025-06-17_21-00
+[redacted],Interface tailscale0: Inbound packets discarded,0,,2025-06-17_21-00
+[redacted],Interface eth0: Inbound packets with errors,0,,2025-06-17_21-00
+[redacted],Interface tailscale0: Inbound packets with errors,0,,2025-06-17_21-00
+[redacted],Interface eth0: Outbound packets with errors,0,,2025-06-17_21-00
+[redacted],Interface tailscale0: Outbound packets with errors,0,,2025-06-17_21-00
+[redacted],Interface eth0: Bits sent,19648,bps,2025-06-17_21-00
+[redacted],Interface tailscale0: Bits sent,4000,bps,2025-06-17_21-00
+[redacted],Interface eth0: Operational status,6,,2025-06-17_21-00
+[redacted],Interface tailscale0: Operational status,0,,2025-06-17_21-00
+[redacted],Interface eth0: Interface type,1,,2025-06-17_21-00
+[redacted],Interface tailscale0: Interface type,65534,,2025-06-17_21-00
+[redacted],Interface br-mailcow: Interface type,1,,2025-06-17_21-00
+[redacted],sda: Get stats,,,2025-06-17_21-00
+[redacted],sda: Disk write time (rate),0.002016689047915332,,2025-06-17_21-00
+[redacted],sda: Disk write rate,2.7666973715202077,!w/s,2025-06-17_21-00
+[redacted],sda: Disk utilization,0.05333392523412448,%,2025-06-17_21-00
+[redacted],sda: Disk read time (rate),0,,2025-06-17_21-00
+[redacted],sda: Disk read rate,0.0166668516356639,!r/s,2025-06-17_21-00
+[redacted],sda: Disk average queue size (avgqu-sz),0.002116690157729316,,2025-06-17_21-00
+[redacted],FS [/]: Get data,"{""fsname"":""/"",""options"":""rw,relatime,errors=remount-ro"",""bytes"":{""used"":17303564288,""free"":380804034560,""total"":419491782656,""pused"":4.3464541591446988,""pfree"":95.6535458408553},""fstype"":""ext4"",""inodes"":{""used"":645136,""free"":25438192,""total"":26083328,""pused"":2.4733653619660805,""pfree"":97.526634638033926}}",,2025-06-17_21-00
+[redacted],FS [/]: Space: Available,380804034560,B,2025-06-17_21-00
+[redacted],FS [/]: Option: Read-only,0,,2025-06-17_21-00
+[redacted],FS [/]: Space: Used,17303564288,B,2025-06-17_21-00
+[redacted],FS [/]: Space: Total,419491782656,B,2025-06-17_21-00
+[redacted],"FS [/]: Space: Used, in %",4.346454159144699,%,2025-06-17_21-00
+[redacted],"FS [/]: Inodes: Free, in %",97.52663463803393,%,2025-06-17_21-00
+[redacted],FS [/boot]: Get data,"{""fsname"":""/boot"",""options"":""rw,noatime"",""bytes"":{""used"":153800704,""free"":1793986560,""total"":2071830528,""pused"":7.8961756677755943,""pfree"":92.1038243322244},""fstype"":""ext4"",""inodes"":{""used"":360,""free"":130712,""total"":131072,""pused"":0.274658203125,""pfree"":99.725341796875}}",,2025-06-17_21-00
+[redacted],FS [/boot]: Space: Available,1793986560,B,2025-06-17_21-00
+[redacted],FS [/boot]: Option: Read-only,0,,2025-06-17_21-00
+[redacted],FS [/boot]: Space: Used,153800704,B,2025-06-17_21-00
+[redacted],FS [/boot]: Space: Total,2071830528,B,2025-06-17_21-00
+[redacted],"FS [/boot]: Space: Used, in %",7.896175667775594,%,2025-06-17_21-00
+[redacted],"FS [/boot]: Inodes: Free, in %",99.725341796875,%,2025-06-17_21-00
+[redacted],sda: Disk read request avg waiting time (r_await),2.3333333333333335,!ms,2025-06-17_21-00
+[redacted],sda: Disk write request avg waiting time (w_await),0.6774193548387097,!ms,2025-06-17_21-00
+[redacted],Interface br-mailcow: Outbound packets discarded,0,,2025-06-17_21-00
+[redacted],Interface br-mailcow: Inbound packets discarded,0,,2025-06-17_21-00
+[redacted],Interface br-mailcow: Inbound packets with errors,0,,2025-06-17_21-00
+[redacted],Interface br-mailcow: Outbound packets with errors,0,,2025-06-17_21-00
+[redacted],Interface br-mailcow: Bits sent,33768,bps,2025-06-17_21-00
+[redacted],Interface br-mailcow: Bits received,12392,bps,2025-06-17_21-00
+[redacted],Interface br-mailcow: Operational status,6,,2025-06-17_21-00
+[redacted],Connections sum: Idle,4,,2025-06-17_21-00
+[redacted],Connections sum: Idle in transaction,0,,2025-06-17_21-00
+[redacted],Connections sum: Idle in transaction (aborted),0,,2025-06-17_21-00
+[redacted],Connections sum: Prepared,0,,2025-06-17_21-00
+[redacted],Connections sum: Total,5,,2025-06-17_21-00
+[redacted],"Connections sum: Total, %",5,%,2025-06-17_21-00
+[redacted],Connections sum: Waiting,4,,2025-06-17_21-00
+[redacted],DB [client-forms-shadow]: Bloating tables,0,,2025-06-17_21-00
+[redacted],Interface br-mailcow: Speed,10000000000,bps,2025-06-17_21-00
+[redacted],Get bgwriter,,,2025-06-17_21-00
+[redacted],Get dbstat sum,,,2025-06-17_21-00
+[redacted],Get dbstat,,,2025-06-17_21-00
+[redacted],Get locks,,,2025-06-17_21-00
+[redacted],Age of oldest xid,0,,2025-06-17_21-00
+[redacted],Ping,1,,2025-06-17_21-00
+[redacted],Get queries,,,2025-06-17_21-00
+[redacted],Replication: Standby count,0,,2025-06-17_21-00
+[redacted],Replication: Lag in bytes,0,B,2025-06-17_21-00
+[redacted],Replication: Lag in seconds,0,s,2025-06-17_21-00
+[redacted],Get replication,,,2025-06-17_21-00
+[redacted],Replication: Recovery role,0,,2025-06-17_21-00
+[redacted],Replication: Status,2,,2025-06-17_21-00
+[redacted],Uptime,243021.763954,s,2025-06-17_21-00
+[redacted],Version,"PostgreSQL 15.10 (Debian 15.10-0+deb12u1) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit",,2025-06-17_21-00
+[redacted],Get WAL,,,2025-06-17_21-00
+[redacted],Bgwriter: Buffers allocated per second,0,,2025-06-17_21-00
+[redacted],Bgwriter: Buffers written directly by a backend per second,0,,2025-06-17_21-00
+[redacted],Bgwriter: Times a backend executed its own fsync per second,0,,2025-06-17_21-00
+[redacted],Checkpoint: Buffers written during checkpoints per second,0,,2025-06-17_21-00
+[redacted],Checkpoint: Buffers written by the background writer per second,0,,2025-06-17_21-00
+[redacted],Checkpoint: Requested per second,0,,2025-06-17_21-00
+[redacted],Checkpoint: Scheduled per second,0,,2025-06-17_21-00
+[redacted],Checkpoint: Checkpoint sync time per second,0,s,2025-06-17_21-00
+[redacted],Checkpoint: Checkpoint write time per second,0,s,2025-06-17_21-00
+[redacted],Bgwriter: Number of bgwriter cleaning scan stopped per second,0,,2025-06-17_21-00
+[redacted],Dbstat: Number temp bytes per second,0,b,2025-06-17_21-00
+[redacted],Dbstat: Hit blocks read per second,11.999879190216264,,2025-06-17_21-00
+[redacted],Dbstat: Disk blocks read per second,0,,2025-06-17_21-00
+[redacted],Dbstat: Blocks read time,0,s,2025-06-17_21-00
+[redacted],Dbstat: Blocks write time,0,s,2025-06-17_21-00
+[redacted],Dbstat: Checksum failures per second,0,,2025-06-17_21-00
+[redacted],Dbstat: Conflicts per second,0,,2025-06-17_21-00
+[redacted],Dbstat: Deadlocks per second,0,,2025-06-17_21-00
+[redacted],Dbstat: Backends connected,5,,2025-06-17_21-00
+[redacted],Dbstat: Number temp files per second,0,,2025-06-17_21-00
+[redacted],Dbstat: Rows deleted per second,0,,2025-06-17_21-00
+[redacted],Dbstat: Rows fetched per second,2.2666438470408496,,2025-06-17_21-00
+[redacted],Dbstat: Rows inserted per second,0,,2025-06-17_21-00
+[redacted],Dbstat: Rows returned per second,127.3820509039207,,2025-06-17_21-00
+[redacted],Dbstat: Rows updated per second,0,,2025-06-17_21-00
+[redacted],Dbstat: Committed transactions per second,0.41666247188250916,,2025-06-17_21-00
+[redacted],Dbstat: Roll backed transactions per second,0.03333299775060073,,2025-06-17_21-00
+[redacted],WAL: Segments count,2,,2025-06-17_21-00
+[redacted],WAL: Bytes received,0,B,2025-06-17_21-00
+[redacted],WAL: Bytes written,0,B,2025-06-17_21-00
+[redacted],"Cache hit ratio, %",100,%,2025-06-17_21-00
+[redacted],Count of autovacuum workers,0,,2025-06-17_21-00
+[redacted],Get connections sum,,,2025-06-17_21-00
+[redacted],Get archive,,,2025-06-17_21-00
+[redacted],Archive: Count of archived files,0,,2025-06-17_21-00
+[redacted],Archive: Count of files in archive_status need to archive,0,,2025-06-17_21-00
+[redacted],Archive: Count of failed attempts to archive files,0,,2025-06-17_21-00
+[redacted],Archive: Size of files need to archive,0,,2025-06-17_21-00
+[redacted],DB [postgres]: Database age,6259,,2025-06-17_21-00
+[redacted],DB [shadowCloud]: Database age,6259,,2025-06-17_21-00
+[redacted],DB [client-forms]: Database age,6259,,2025-06-17_21-00
+[redacted],DB [client-forms-shadow]: Database age,6259,,2025-06-17_21-00
+[redacted],DB [shadowCloud]: Bloating tables,0,,2025-06-17_21-00
+[redacted],DB [postgres]: Database size,7648047,B,2025-06-17_21-00
+[redacted],DB [shadowCloud]: Database size,10703663,B,2025-06-17_21-00
+[redacted],DB [client-forms]: Database size,8344367,B,2025-06-17_21-00
+[redacted],DB [client-forms-shadow]: Database size,7705391,B,2025-06-17_21-00
+[redacted],DB [postgres]: Get dbstat,,,2025-06-17_21-00
+[redacted],DB [postgres]: Rollbacks per second,0,,2025-06-17_21-00
+[redacted],DB [postgres]: Commits per second,0.3500039034010325,,2025-06-17_21-00
+[redacted],DB [postgres]: Tuples updated per second,0,,2025-06-17_21-00
+[redacted],DB [postgres]: Tuples returned per second,21.416905517634607,,2025-06-17_21-00
+[redacted],DB [postgres]: Tuples inserted per second,0,,2025-06-17_21-00
+[redacted],DB [postgres]: Tuples fetched per second,0.23333593560068833,,2025-06-17_21-00
+[redacted],DB [postgres]: Tuples deleted per second,0,,2025-06-17_21-00
+[redacted],DB [postgres]: Temp_files created per second,0,,2025-06-17_21-00
+[redacted],DB [postgres]: Temp_bytes written per second,0,B,2025-06-17_21-00
+[redacted],DB [postgres]: Backends connected,2,,2025-06-17_21-00
+[redacted],DB [postgres]: Detected deadlocks per second,0,,2025-06-17_21-00
+[redacted],DB [postgres]: Detected conflicts per second,0,,2025-06-17_21-00
+[redacted],DB [postgres]: Checksum failures,0,,2025-06-17_21-00
+[redacted],DB [postgres]: Disk blocks write time,0,s,2025-06-17_21-00
+[redacted],DB [postgres]: Disk blocks read time per second,0,s,2025-06-17_21-00
+[redacted],DB [postgres]: Blocks hit per second,1.450016171232849,,2025-06-17_21-00
+[redacted],DB [postgres]: Disk blocks read per second,0,,2025-06-17_21-00
+[redacted],DB [shadowCloud]: Get dbstat,,,2025-06-17_21-00
+[redacted],DB [shadowCloud]: Rollbacks per second,0,,2025-06-17_21-00
+[redacted],DB [shadowCloud]: Commits per second,0.05000055762871893,,2025-06-17_21-00
+[redacted],DB [shadowCloud]: Tuples updated per second,0,,2025-06-17_21-00
+[redacted],DB [shadowCloud]: Tuples returned per second,25.933622556762217,,2025-06-17_21-00
+[redacted],DB [shadowCloud]: Tuples inserted per second,0,,2025-06-17_21-00
+[redacted],DB [shadowCloud]: Tuples fetched per second,0.23333593560068833,,2025-06-17_21-00
+[redacted],DB [shadowCloud]: Tuples deleted per second,0,,2025-06-17_21-00
+[redacted],DB [shadowCloud]: Temp_files created per second,0,,2025-06-17_21-00
+[redacted],DB [shadowCloud]: Temp_bytes written per second,0,B,2025-06-17_21-00
+[redacted],DB [shadowCloud]: Backends connected,1,,2025-06-17_21-00
+[redacted],DB [shadowCloud]: Detected deadlocks per second,0,,2025-06-17_21-00
+[redacted],DB [shadowCloud]: Detected conflicts per second,0,,2025-06-17_21-00
+[redacted],DB [shadowCloud]: Checksum failures,0,,2025-06-17_21-00
+[redacted],DB [shadowCloud]: Disk blocks write time,0,s,2025-06-17_21-00
+[redacted],DB [shadowCloud]: Disk blocks read time per second,0,s,2025-06-17_21-00
+[redacted],DB [shadowCloud]: Blocks hit per second,2.0000223051487573,,2025-06-17_21-00
+[redacted],DB [shadowCloud]: Disk blocks read per second,0,,2025-06-17_21-00
+[redacted],DB [cloud_gameservers]: Get dbstat,,,2025-06-17_21-00
+[redacted],DB [cloud_gameservers]: Rollbacks per second,0.03333370508581262,,2025-06-17_21-00
+[redacted],DB [cloud_gameservers]: Commits per second,0.03333370508581262,,2025-06-17_21-00
+[redacted],DB [cloud_gameservers]: Tuples updated per second,0,,2025-06-17_21-00
+[redacted],DB [cloud_gameservers]: Tuples returned per second,17.866865925995565,,2025-06-17_21-00
+[redacted],DB [cloud_gameservers]: Tuples inserted per second,0,,2025-06-17_21-00
+[redacted],DB [cloud_gameservers]: Tuples fetched per second,0.23333593560068833,,2025-06-17_21-00
+[redacted],DB [cloud_gameservers]: Tuples deleted per second,0,,2025-06-17_21-00
+[redacted],DB [cloud_gameservers]: Temp_files created per second,0,,2025-06-17_21-00
+[redacted],DB [cloud_gameservers]: Temp_bytes written per second,0,B,2025-06-17_21-00
+[redacted],DB [cloud_gameservers]: Backends connected,0,,2025-06-17_21-00
+[redacted],DB [cloud_gameservers]: Detected deadlocks per second,0,,2025-06-17_21-00
+[redacted],DB [cloud_gameservers]: Detected conflicts per second,0,,2025-06-17_21-00
+[redacted],DB [cloud_gameservers]: Checksum failures,0,,2025-06-17_21-00
+[redacted],DB [cloud_gameservers]: Disk blocks write time,0,s,2025-06-17_21-00
+[redacted],DB [cloud_gameservers]: Disk blocks read time per second,0,s,2025-06-17_21-00
+[redacted],DB [cloud_gameservers]: Blocks hit per second,1.3166813508895985,,2025-06-17_21-00
+[redacted],DB [cloud_gameservers]: Disk blocks read per second,0,,2025-06-17_21-00
+[redacted],DB [client-forms]: Get dbstat,,,2025-06-17_21-00
+[redacted],DB [client-forms]: Rollbacks per second,0,,2025-06-17_21-00
+[redacted],DB [client-forms]: Commits per second,0.06666741017162524,,2025-06-17_21-00
+[redacted],DB [client-forms]: Tuples updated per second,0,,2025-06-17_21-00
+[redacted],DB [client-forms]: Tuples returned per second,24.25027044992868,,2025-06-17_21-00
+[redacted],DB [client-forms]: Tuples inserted per second,0,,2025-06-17_21-00
+[redacted],DB [client-forms]: Tuples fetched per second,0.23333593560068833,,2025-06-17_21-00
+[redacted],DB [client-forms]: Tuples deleted per second,0,,2025-06-17_21-00
+[redacted],DB [client-forms]: Temp_files created per second,0,,2025-06-17_21-00
+[redacted],DB [client-forms]: Temp_bytes written per second,0,B,2025-06-17_21-00
+[redacted],DB [client-forms]: Backends connected,1,,2025-06-17_21-00
+[redacted],DB [client-forms]: Detected deadlocks per second,0,,2025-06-17_21-00
+[redacted],DB [client-forms]: Detected conflicts per second,0,,2025-06-17_21-00
+[redacted],DB [client-forms]: Checksum failures,0,,2025-06-17_21-00
+[redacted],DB [client-forms]: Disk blocks write time,0,s,2025-06-17_21-00
+[redacted],DB [client-forms]: Disk blocks read time per second,0,s,2025-06-17_21-00
+[redacted],DB [client-forms]: Blocks hit per second,1.450016171232849,,2025-06-17_21-00
+[redacted],DB [client-forms]: Disk blocks read per second,0,,2025-06-17_21-00
+[redacted],DB [client-forms-shadow]: Get dbstat,,,2025-06-17_21-00
+[redacted],DB [client-forms-shadow]: Rollbacks per second,0,,2025-06-17_21-00
+[redacted],DB [client-forms-shadow]: Commits per second,0.06666741017162524,,2025-06-17_21-00
+[redacted],DB [client-forms-shadow]: Tuples updated per second,0,,2025-06-17_21-00
+[redacted],DB [client-forms-shadow]: Tuples returned per second,21.416905517634607,,2025-06-17_21-00
+[redacted],DB [client-forms-shadow]: Tuples inserted per second,0,,2025-06-17_21-00
+[redacted],DB [client-forms-shadow]: Tuples fetched per second,0.23333593560068833,,2025-06-17_21-00
+[redacted],DB [client-forms-shadow]: Tuples deleted per second,0,,2025-06-17_21-00
+[redacted],DB [client-forms-shadow]: Temp_files created per second,0,,2025-06-17_21-00
+[redacted],DB [client-forms-shadow]: Temp_bytes written per second,0,B,2025-06-17_21-00
+[redacted],DB [client-forms-shadow]: Backends connected,1,,2025-06-17_21-00
+[redacted],DB [client-forms-shadow]: Detected deadlocks per second,0,,2025-06-17_21-00
+[redacted],DB [client-forms-shadow]: Detected conflicts per second,0,,2025-06-17_21-00
+[redacted],DB [client-forms-shadow]: Checksum failures,0,,2025-06-17_21-00
+[redacted],DB [client-forms-shadow]: Disk blocks write time,0,s,2025-06-17_21-00
+[redacted],DB [client-forms-shadow]: Disk blocks read time per second,0,s,2025-06-17_21-00
+[redacted],DB [client-forms-shadow]: Blocks hit per second,1.450016171232849,,2025-06-17_21-00
+[redacted],DB [client-forms-shadow]: Disk blocks read per second,0,,2025-06-17_21-00
+[redacted],DB [postgres]: Get locks,,,2025-06-17_21-00
+[redacted],DB [postgres]: Num of locks total,1,,2025-06-17_21-00
+[redacted],DB [postgres]: Num of share locks,0,,2025-06-17_21-00
+[redacted],DB [postgres]: Num of shareupdateexclusive locks,0,,2025-06-17_21-00
+[redacted],DB [postgres]: Num of sharerowexclusive locks,0,,2025-06-17_21-00
+[redacted],DB [client-forms]: Bloating tables,0,,2025-06-17_21-00
+[redacted],DB [postgres]: Bloating tables,0,,2025-06-17_21-00
+[redacted],DB [postgres]: Num of rowshare locks,0,,2025-06-17_21-00
+[redacted],DB [postgres]: Num of rowexclusive locks,0,,2025-06-17_21-00
+[redacted],DB [postgres]: Num of exclusive locks,0,,2025-06-17_21-00
+[redacted],DB [postgres]: Num of accessshare locks,1,,2025-06-17_21-00
+[redacted],DB [postgres]: Num of accessexclusive locks,0,,2025-06-17_21-00
+[redacted],DB [shadowCloud]: Get locks,,,2025-06-17_21-00
+[redacted],DB [shadowCloud]: Num of locks total,0,,2025-06-17_21-00
+[redacted],DB [shadowCloud]: Num of share locks,0,,2025-06-17_21-00
+[redacted],DB [shadowCloud]: Num of shareupdateexclusive locks,0,,2025-06-17_21-00
+[redacted],DB [shadowCloud]: Num of sharerowexclusive locks,0,,2025-06-17_21-00
+[redacted],DB [shadowCloud]: Num of rowshare locks,0,,2025-06-17_21-00
+[redacted],DB [shadowCloud]: Num of rowexclusive locks,0,,2025-06-17_21-00
+[redacted],DB [shadowCloud]: Num of exclusive locks,0,,2025-06-17_21-00
+[redacted],DB [shadowCloud]: Num of accessshare locks,0,,2025-06-17_21-00
+[redacted],DB [shadowCloud]: Num of accessexclusive locks,0,,2025-06-17_21-00
+[redacted],DB [cloud_gameservers]: Get locks,,,2025-06-17_21-00
+[redacted],DB [cloud_gameservers]: Num of locks total,0,,2025-06-17_21-00
+[redacted],DB [cloud_gameservers]: Num of share locks,0,,2025-06-17_21-00
+[redacted],DB [cloud_gameservers]: Num of shareupdateexclusive locks,0,,2025-06-17_21-00
+[redacted],DB [cloud_gameservers]: Num of sharerowexclusive locks,0,,2025-06-17_21-00
+[redacted],DB [cloud_gameservers]: Num of rowshare locks,0,,2025-06-17_21-00
+[redacted],DB [cloud_gameservers]: Num of rowexclusive locks,0,,2025-06-17_21-00
+[redacted],DB [cloud_gameservers]: Num of exclusive locks,0,,2025-06-17_21-00
+[redacted],DB [cloud_gameservers]: Num of accessshare locks,0,,2025-06-17_21-00
+[redacted],DB [cloud_gameservers]: Num of accessexclusive locks,0,,2025-06-17_21-00
+[redacted],DB [client-forms]: Get locks,,,2025-06-17_21-00
+[redacted],DB [client-forms]: Num of locks total,0,,2025-06-17_21-00
+[redacted],DB [client-forms]: Num of share locks,0,,2025-06-17_21-00
+[redacted],DB [client-forms]: Num of shareupdateexclusive locks,0,,2025-06-17_21-00
+[redacted],DB [client-forms]: Num of sharerowexclusive locks,0,,2025-06-17_21-00
+[redacted],DB [client-forms]: Num of rowshare locks,0,,2025-06-17_21-00
+[redacted],DB [client-forms]: Num of rowexclusive locks,0,,2025-06-17_21-00
+[redacted],DB [client-forms]: Num of exclusive locks,0,,2025-06-17_21-00
+[redacted],DB [client-forms]: Num of accessshare locks,0,,2025-06-17_21-00
+[redacted],DB [client-forms]: Num of accessexclusive locks,0,,2025-06-17_21-00
+[redacted],DB [client-forms-shadow]: Get locks,,,2025-06-17_21-00
+[redacted],DB [client-forms-shadow]: Num of locks total,0,,2025-06-17_21-00
+[redacted],DB [client-forms-shadow]: Num of share locks,0,,2025-06-17_21-00
+[redacted],DB [client-forms-shadow]: Num of shareupdateexclusive locks,0,,2025-06-17_21-00
+[redacted],DB [client-forms-shadow]: Num of sharerowexclusive locks,0,,2025-06-17_21-00
+[redacted],DB [client-forms-shadow]: Num of rowshare locks,0,,2025-06-17_21-00
+[redacted],DB [client-forms-shadow]: Num of rowexclusive locks,0,,2025-06-17_21-00
+[redacted],DB [client-forms-shadow]: Num of exclusive locks,0,,2025-06-17_21-00
+[redacted],DB [client-forms-shadow]: Num of accessshare locks,0,,2025-06-17_21-00
+[redacted],DB [client-forms-shadow]: Num of accessexclusive locks,0,,2025-06-17_21-00
+[redacted],DB [postgres]: Get queries,,,2025-06-17_21-00
+[redacted],DB [postgres]: Queries sum transaction time,0,s,2025-06-17_21-00
+[redacted],DB [postgres]: Queries max transaction time,0,s,2025-06-17_21-00
+[redacted],DB [postgres]: Queries slow transaction count,0,,2025-06-17_21-00
+[redacted],DB [postgres]: Queries sum query time,0,s,2025-06-17_21-00
+[redacted],DB [postgres]: Queries max query time,0,s,2025-06-17_21-00
+[redacted],DB [postgres]: Queries slow query count,0,,2025-06-17_21-00
+[redacted],DB [postgres]: Queries sum maintenance time,0,s,2025-06-17_21-00
+[redacted],DB [postgres]: Queries max maintenance time,0,s,2025-06-17_21-00
+[redacted],DB [postgres]: Queries slow maintenance count,0,,2025-06-17_21-00
+[redacted],DB [shadowCloud]: Get queries,,,2025-06-17_21-00
+[redacted],DB [shadowCloud]: Queries sum transaction time,0,s,2025-06-17_21-00
+[redacted],DB [shadowCloud]: Queries max transaction time,0,s,2025-06-17_21-00
+[redacted],DB [shadowCloud]: Queries slow transaction count,0,,2025-06-17_21-00
+[redacted],DB [shadowCloud]: Queries sum query time,0,s,2025-06-17_21-00
+[redacted],DB [shadowCloud]: Queries max query time,0,s,2025-06-17_21-00
+[redacted],DB [shadowCloud]: Queries slow query count,0,,2025-06-17_21-00
+[redacted],DB [shadowCloud]: Queries sum maintenance time,0,s,2025-06-17_21-00
+[redacted],DB [shadowCloud]: Queries max maintenance time,0,s,2025-06-17_21-00
+[redacted],DB [shadowCloud]: Queries slow maintenance count,0,,2025-06-17_21-00
+[redacted],DB [cloud_gameservers]: Get queries,,,2025-06-17_21-00
+[redacted],DB [cloud_gameservers]: Queries sum transaction time,0,s,2025-06-17_21-00
+[redacted],DB [cloud_gameservers]: Queries max transaction time,0,s,2025-06-17_21-00
+[redacted],DB [cloud_gameservers]: Queries slow transaction count,0,,2025-06-17_21-00
+[redacted],DB [cloud_gameservers]: Queries sum query time,0,s,2025-06-17_21-00
+[redacted],DB [cloud_gameservers]: Queries max query time,0,s,2025-06-17_21-00
+[redacted],DB [cloud_gameservers]: Queries slow query count,0,,2025-06-17_21-00
+[redacted],DB [cloud_gameservers]: Queries sum maintenance time,0,s,2025-06-17_21-00
+[redacted],DB [cloud_gameservers]: Queries max maintenance time,0,s,2025-06-17_21-00
+[redacted],DB [cloud_gameservers]: Queries slow maintenance count,0,,2025-06-17_21-00
+[redacted],DB [client-forms]: Get queries,,,2025-06-17_21-00
+[redacted],DB [client-forms]: Queries sum transaction time,0,s,2025-06-17_21-00
+[redacted],DB [client-forms]: Queries max transaction time,0,s,2025-06-17_21-00
+[redacted],DB [client-forms]: Queries slow transaction count,0,,2025-06-17_21-00
+[redacted],DB [client-forms]: Queries sum query time,0,s,2025-06-17_21-00
+[redacted],DB [client-forms]: Queries max query time,0,s,2025-06-17_21-00
+[redacted],DB [client-forms]: Queries slow query count,0,,2025-06-17_21-00
+[redacted],DB [client-forms]: Queries sum maintenance time,0,s,2025-06-17_21-00
+[redacted],DB [client-forms]: Queries max maintenance time,0,s,2025-06-17_21-00
+[redacted],DB [client-forms]: Queries slow maintenance count,0,,2025-06-17_21-00
+[redacted],DB [client-forms-shadow]: Get queries,,,2025-06-17_21-00
+[redacted],DB [client-forms-shadow]: Queries sum transaction time,0,s,2025-06-17_21-00
+[redacted],DB [client-forms-shadow]: Queries max transaction time,0,s,2025-06-17_21-00
+[redacted],DB [client-forms-shadow]: Queries slow transaction count,0,,2025-06-17_21-00
+[redacted],DB [client-forms-shadow]: Queries sum query time,0,s,2025-06-17_21-00
+[redacted],DB [client-forms-shadow]: Queries max query time,0,s,2025-06-17_21-00
+[redacted],DB [client-forms-shadow]: Queries slow query count,0,,2025-06-17_21-00
+[redacted],DB [client-forms-shadow]: Queries sum maintenance time,0,s,2025-06-17_21-00
+[redacted],DB [client-forms-shadow]: Queries max maintenance time,0,s,2025-06-17_21-00
+[redacted],DB [client-forms-shadow]: Queries slow maintenance count,0,,2025-06-17_21-00
+[redacted],Number of processed numeric (float) values per second,6.774911603768229,!vps,2025-06-17_21-00
+[redacted],Number of processed character values per second,0,!vps,2025-06-17_21-00
+[redacted],Number of processed log values per second,0,!vps,2025-06-17_21-00
+[redacted],Number of processed numeric (unsigned) values per second,6.092369134635586,!vps,2025-06-17_21-00
+[redacted],Number of processed text values per second,1.0653324435508753,!vps,2025-06-17_21-00
+[redacted],Number of processed not supported values per second,0.382853491031424,!vps,2025-06-17_21-00
+[redacted],"Utilization of alerter internal processes, in %",0,%,2025-06-17_21-00
+[redacted],"Utilization of configuration syncer internal processes, in %",0.35431078117091275,%,2025-06-17_21-00
+[redacted],"Utilization of escalator internal processes, in %",0.050761421319796954,%,2025-06-17_21-00
+[redacted],"Utilization of history syncer internal processes, in %",0.27624309392265195,%,2025-06-17_21-00
+[redacted],"Utilization of housekeeper internal processes, in %",0,%,2025-06-17_21-00
+[redacted],"Utilization of http poller data collector processes, in %",0,%,2025-06-17_21-00
+[redacted],"Utilization of icmp pinger data collector processes, in %",0.01694628029147602,%,2025-06-17_21-00
+[redacted],"Utilization of poller data collector processes, in %",0,%,2025-06-17_21-00
+[redacted],"Utilization of proxy poller data collector processes, in %",0,%,2025-06-17_21-00
+[redacted],"Utilization of self-monitoring internal processes, in %",0,%,2025-06-17_21-00
+[redacted],"Utilization of timer internal processes, in %",0,%,2025-06-17_21-00
+[redacted],"Utilization of trapper data collector processes, in %",0.013559781687514831,%,2025-06-17_21-00
+[redacted],"Utilization of unreachable poller data collector processes, in %",0.016931933626820182,%,2025-06-17_21-00
+[redacted],Queue over 10 minutes,0,,2025-06-17_21-00
+[redacted],Queue,0,,2025-06-17_21-00
+[redacted],"Configuration cache, % used",27.857685089111328,%,2025-06-17_21-00
+[redacted],"History write cache, % used",0,%,2025-06-17_21-00
+[redacted],"History index cache, % used",0.6186121570736955,%,2025-06-17_21-00
+[redacted],"Trend write cache, % used",2.3593902587890625,%,2025-06-17_21-00
+[redacted],Number of processed values per second,13.932561586548172,!vps,2025-06-17_21-00
+[redacted],"Value cache, % used",2.299032548487022,%,2025-06-17_21-00
+[redacted],Value cache hits,31.75877572654158,!vps,2025-06-17_21-00
+[redacted],Value cache misses,0,!vps,2025-06-17_21-00
+[redacted],Value cache operating mode,0,!vps,2025-06-17_21-00
+[redacted],"Utilization of task manager internal processes, in %",0.05079580088046055,%,2025-06-17_21-00
+[redacted],"Utilization of alert manager internal processes, in %",0,%,2025-06-17_21-00
+[redacted],"Utilization of preprocessing manager internal processes, in %",0.05083022704168079,%,2025-06-17_21-00
+[redacted],"Utilization of preprocessing worker internal processes, in %",0.001048833696929015,%,2025-06-17_21-00
+[redacted],Preprocessing queue,0,,2025-06-17_21-00
+[redacted],LLD queue,0,,2025-06-17_21-00
+[redacted],"Utilization of LLD manager internal processes, in %",0,%,2025-06-17_21-00
+[redacted],"Utilization of LLD worker internal processes, in %",0,%,2025-06-17_21-00
+[redacted],"Utilization of alert syncer internal processes, in %",0,%,2025-06-17_21-00
+[redacted],"Trend function cache, % of unique requests",0,%,2025-06-17_21-00
+[redacted],"Trend function cache, % of misses",0,%,2025-06-17_21-00
+[redacted],"Utilization of availability manager internal processes, in %",0,%,2025-06-17_21-00
+[redacted],"Utilization of history poller internal processes, in %",0,%,2025-06-17_21-00
+[redacted],"Utilization of trigger housekeeper internal processes, in %",0,%,2025-06-17_21-00
+[redacted],Version,7.2.5,,2025-06-17_21-00
+[redacted],"Utilization of service manager internal processes, in %",0.016929067208396816,%,2025-06-17_21-00
+[redacted],"Utilization of ODBC poller data collector processes, in %",0,%,2025-06-17_21-00
+[redacted],REDACTED,REDACTED,,2025-06-17_21-00
+[redacted],Free swap space,0,B,2025-06-17_21-00
+[redacted],CPU system time,1.475596,%,2025-06-17_21-00
+[redacted],CPU user time,3.438853,%,2025-06-17_21-00
+[redacted],REDACTED,REDACTED,,2025-06-17_21-00
+[redacted],System local time,1750193992,unixtime,2025-06-17_21-00
+[redacted],Operating system architecture,x86_64,,2025-06-17_21-00
+[redacted],Operating system,"Linux version 6.1.0-31-amd64 (debian-kernel@lists.debian.org) (gcc-12 (Debian 12.2.0-14) 12.2.0, GNU ld (GNU Binutils for Debian) 2.40) #1 SMP PREEMPT_DYNAMIC Debian 6.1.128-1 (2025-02-07)",,2025-06-17_21-00
+[redacted],Number of installed packages,718,,2025-06-17_21-00
+[redacted],Free swap space in %,100,%,2025-06-17_21-00
+[redacted],Zabbix agent ping,1,,2025-06-17_21-00
+[redacted],Total swap space,0,B,2025-06-17_21-00
+[redacted],REDACTED,REDACTED,,2025-06-17_21-00
+[redacted],System uptime,9619337,uptime,2025-06-17_21-00
+[redacted],Number of logged in users,0,,2025-06-17_21-00
+[redacted],Checksum of /etc/passwd,175a50af7684d13571bb4c356efa1bed4c0066ec9268c86ec9b12c26bc129521,,2025-06-17_21-00
+[redacted],Available memory,2283323392,B,2025-06-17_21-00
+[redacted],Available memory in %,28.010428,%,2025-06-17_21-00
+[redacted],Total memory,8127225856,B,2025-06-17_21-00
+[redacted],CPU steal time,0,%,2025-06-17_21-00
+[redacted],CPU softirq time,0.306839,%,2025-06-17_21-00
+[redacted],CPU nice time,0,%,2025-06-17_21-00
+[redacted],Load average (1m avg),0.270996,,2025-06-17_21-00
+[redacted],Version of Zabbix agent running,7.2.5,,2025-06-17_21-00
+[redacted],Maximum number of open file descriptors,9223372036854775807,,2025-06-17_21-00
+[redacted],Maximum number of processes,4194304,,2025-06-17_21-00
+[redacted],Number of processes,421,,2025-06-17_21-00
+[redacted],Number of running processes,1,,2025-06-17_21-00
+[redacted],System boot time,1740574663,unixtime,2025-06-17_21-00
+[redacted],Interrupts per second,1779.6193545394701,,2025-06-17_21-00
+[redacted],Load average (5m avg),0.249023,,2025-06-17_21-00
+[redacted],CPU iowait time,0.067224,%,2025-06-17_21-00
+[redacted],Load average (15m avg),0.199219,,2025-06-17_21-00
+[redacted],Number of CPUs,4,,2025-06-17_21-00
+[redacted],Context switches per second,3037.9341719522167,,2025-06-17_21-00
+[redacted],CPU guest time,0,%,2025-06-17_21-00
+[redacted],CPU guest nice time,0,%,2025-06-17_21-00
+[redacted],CPU idle time,95.038441,%,2025-06-17_21-00
+[redacted],CPU interrupt time,0,%,2025-06-17_21-00
+[redacted],Zabbix agent availability,1,,2025-06-17_21-00
+[redacted],CPU utilization,4.961558999999994,%,2025-06-17_21-00
+[redacted],Memory utilization,71.989572,%,2025-06-17_21-00
+[redacted],Zabbix proxies stats,,,2025-06-17_21-00
+[redacted],Get filesystems,,,2025-06-17_21-00
+[redacted],Discovery queue,0,,2025-06-17_21-00
+[redacted],"Utilization of discovery manager internal processes, in %",0,%,2025-06-17_21-00
+[redacted],"Utilization of discovery worker internal processes, in %",0,%,2025-06-17_21-00
+[redacted],"Utilization of agent poller data collector processes, in %",0.1864406779661017,%,2025-06-17_21-00
+[redacted],"Utilization of http agent poller data collector processes, in %",0,%,2025-06-17_21-00
+[redacted],"Utilization of snmp poller data collector processes, in %",0,%,2025-06-17_21-00
+[redacted],Number of values synchronized with the database per second,12.983861072156387,!vps,2025-06-17_21-00
+[redacted],"Utilization of browser poller data collector processes, in %",0,%,2025-06-17_21-00
+[redacted],"Utilization of configuration syncer worker internal processes, in %",0,%,2025-06-17_21-00
+[redacted],"Utilization of internal poller data collector processes, in %",0.05077860528097495,%,2025-06-17_21-00
+[redacted],"Utilization of proxy group manager internal processes, in %",0,%,2025-06-17_21-00
+[redacted],Zabbix proxy groups stats,,,2025-06-17_21-00
+[redacted],FS [/]: Get data,"{""fsname"":""/"",""options"":""rw,relatime,errors=remount-ro"",""bytes"":{""used"":46296539136,""free"":30710820864,""total"":80321626112,""pused"":60.119629001695422,""pfree"":39.880370998304578},""fstype"":""ext4"",""inodes"":{""used"":1156915,""free"":3724829,""total"":4881744,""pused"":23.698805181099214,""pfree"":76.301194818900782}}",,2025-06-17_21-00
+[redacted],FS [/]: Space: Available,30710820864,B,2025-06-17_21-00
+[redacted],FS [/]: Option: Read-only,0,,2025-06-17_21-00
+[redacted],FS [/]: Space: Used,46296539136,B,2025-06-17_21-00
+[redacted],FS [/]: Space: Total,80321626112,B,2025-06-17_21-00
+[redacted],"FS [/]: Space: Used, in %",60.11962900169542,%,2025-06-17_21-00
+[redacted],"FS [/]: Inodes: Free, in %",76.30119481890078,%,2025-06-17_21-00
+[redacted],Interface eth0: Inbound packets discarded,0,,2025-06-17_21-00
+[redacted],Interface tailscale0: Inbound packets discarded,0,,2025-06-17_21-00
+[redacted],Interface eth0: Inbound packets with errors,0,,2025-06-17_21-00
+[redacted],Interface tailscale0: Inbound packets with errors,0,,2025-06-17_21-00
+[redacted],Interface eth0: Bits received,31280,bps,2025-06-17_21-00
+[redacted],Interface tailscale0: Bits received,10216,bps,2025-06-17_21-00
+[redacted],Interface eth0: Outbound packets discarded,0,,2025-06-17_21-00
+[redacted],Interface tailscale0: Outbound packets discarded,0,,2025-06-17_21-00
+[redacted],Interface eth0: Outbound packets with errors,0,,2025-06-17_21-00
+[redacted],Interface tailscale0: Outbound packets with errors,0,,2025-06-17_21-00
+[redacted],Interface eth0: Bits sent,27968,bps,2025-06-17_21-00
+[redacted],Interface tailscale0: Bits sent,7120,bps,2025-06-17_21-00
+[redacted],Interface eth0: Operational status,6,,2025-06-17_21-00
+[redacted],Interface tailscale0: Operational status,0,,2025-06-17_21-00
+[redacted],Interface eth0: Interface type,1,,2025-06-17_21-00
+[redacted],Interface tailscale0: Interface type,65534,,2025-06-17_21-00
+[redacted],Zabbix stats cluster,,,2025-06-17_21-00
+[redacted],sda: Get stats,,,2025-06-17_21-00
+[redacted],sda: Disk write time (rate),0.006266639806804015,,2025-06-17_21-00
+[redacted],sda: Disk write rate,13.449942351305426,!w/s,2025-06-17_21-00
+[redacted],sda: Disk utilization,0.2066657808626856,%,2025-06-17_21-00
+[redacted],sda: Disk read time (rate),3.333319046172349e-05,,2025-06-17_21-00
+[redacted],sda: Disk read rate,0.06666638092344697,!r/s,2025-06-17_21-00
+[redacted],sda: Disk average queue size (avgqu-sz),0.007633300615734678,,2025-06-17_21-00
+[redacted],sda: Disk read request avg waiting time (r_await),0,!ms,2025-06-17_21-00
+[redacted],sda: Disk write request avg waiting time (w_await),0.6291834002677377,!ms,2025-06-17_21-00
+[redacted],Get archive,,,2025-06-17_21-00
+[redacted],Count of autovacuum workers,0,,2025-06-17_21-00
+[redacted],Get connections sum,,,2025-06-17_21-00
+[redacted],Get dbstat sum,,,2025-06-17_21-00
+[redacted],Get dbstat,,,2025-06-17_21-00
+[redacted],Get locks,,,2025-06-17_21-00
+[redacted],Age of oldest xid,0,,2025-06-17_21-00
+[redacted],Ping,1,,2025-06-17_21-00
+[redacted],Get queries,,,2025-06-17_21-00
+[redacted],Replication: Standby count,0,,2025-06-17_21-00
+[redacted],Replication: Lag in bytes,0,B,2025-06-17_21-00
+[redacted],Replication: Lag in seconds,0,s,2025-06-17_21-00
+[redacted],Get replication,,,2025-06-17_21-00
+[redacted],Replication: Recovery role,0,,2025-06-17_21-00
+[redacted],Replication: Status,2,,2025-06-17_21-00
+[redacted],Uptime,5546986.051537,s,2025-06-17_21-00
+[redacted],Version,"PostgreSQL 17.4 (Debian 17.4-1.pgdg120+2) on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit",,2025-06-17_21-00
+[redacted],Get WAL,,,2025-06-17_21-00
+[redacted],Archive: Count of archived files,0,,2025-06-17_21-00
+[redacted],Archive: Count of files in archive_status need to archive,0,,2025-06-17_21-00
+[redacted],Archive: Count of failed attempts to archive files,0,,2025-06-17_21-00
+[redacted],Archive: Size of files need to archive,0,,2025-06-17_21-00
+[redacted],Dbstat: Number temp bytes per second,0,b,2025-06-17_21-00
+[redacted],Dbstat: Hit blocks read per second,166.81739597842045,,2025-06-17_21-00
+[redacted],Dbstat: Disk blocks read per second,0.15000065579036706,,2025-06-17_21-00
+[redacted],Dbstat: Blocks read time,0,s,2025-06-17_21-00
+[redacted],Dbstat: Blocks write time,0,s,2025-06-17_21-00
+[redacted],Dbstat: Checksum failures per second,0,,2025-06-17_21-00
+[redacted],Dbstat: Conflicts per second,0,,2025-06-17_21-00
+[redacted],Dbstat: Deadlocks per second,0,,2025-06-17_21-00
+[redacted],Dbstat: Backends connected,28,,2025-06-17_21-00
+[redacted],Dbstat: Number temp files per second,0,,2025-06-17_21-00
+[redacted],Dbstat: Rows deleted per second,0,,2025-06-17_21-00
+[redacted],Dbstat: Rows fetched per second,28.28345698625032,,2025-06-17_21-00
+[redacted],Dbstat: Rows inserted per second,13.350058365342669,,2025-06-17_21-00
+[redacted],Dbstat: Rows returned per second,1694.057406277809,,2025-06-17_21-00
+[redacted],Dbstat: Rows updated per second,0.20000087438715608,,2025-06-17_21-00
+[redacted],Dbstat: Committed transactions per second,13.400058583939458,,2025-06-17_21-00
+[redacted],Dbstat: Roll backed transactions per second,0.016666739532263008,,2025-06-17_21-00
+[redacted],Connections sum: Active,1,,2025-06-17_21-00
+[redacted],Connections sum: Disabled,0,,2025-06-17_21-00
+[redacted],Connections sum: Fastpath function call,0,,2025-06-17_21-00
+[redacted],Connections sum: Idle,27,,2025-06-17_21-00
+[redacted],Connections sum: Idle in transaction,0,,2025-06-17_21-00
+[redacted],Connections sum: Idle in transaction (aborted),0,,2025-06-17_21-00
+[redacted],Connections sum: Prepared,0,,2025-06-17_21-00
+[redacted],Connections sum: Total,28,,2025-06-17_21-00
+[redacted],"Connections sum: Total, %",28,%,2025-06-17_21-00
+[redacted],Connections sum: Waiting,27,,2025-06-17_21-00
+[redacted],WAL: Segments count,5,,2025-06-17_21-00
+[redacted],WAL: Bytes received,0,B,2025-06-17_21-00
+[redacted],WAL: Bytes written,17676,B,2025-06-17_21-00
+[redacted],"Cache hit ratio, %",99.93668596237336,%,2025-06-17_21-00
+[redacted],DB [postgres]: Database age,31479948,,2025-06-17_21-00
+[redacted],DB [zabbix]: Database age,31479950,,2025-06-17_21-00
+[redacted],DB [synapse]: Database age,31479952,,2025-06-17_21-00
+[redacted],DB [postgres]: Bloating tables,0,,2025-06-17_21-00
+[redacted],DB [zabbix]: Bloating tables,7,,2025-06-17_21-00
+[redacted],DB [synapse]: Bloating tables,0,,2025-06-17_21-00
+[redacted],DB [postgres]: Database size,7826579,B,2025-06-17_21-00
+[redacted],DB [zabbix]: Database size,4008676499,B,2025-06-17_21-00
+[redacted],DB [synapse]: Database size,7900307,B,2025-06-17_21-00
+[redacted],DB [postgres]: Get dbstat,,,2025-06-17_21-00
+[redacted],DB [postgres]: Rollbacks per second,0.01666667417972561,,2025-06-17_21-00
+[redacted],DB [postgres]: Commits per second,0.3333334835945122,,2025-06-17_21-00
+[redacted],DB [postgres]: Tuples updated per second,0,,2025-06-17_21-00
+[redacted],DB [postgres]: Tuples returned per second,21.666676433643293,,2025-06-17_21-00
+[redacted],DB [postgres]: Tuples inserted per second,0,,2025-06-17_21-00
+[redacted],DB [postgres]: Tuples fetched per second,0.23333343851615854,,2025-06-17_21-00
+[redacted],DB [postgres]: Tuples deleted per second,0,,2025-06-17_21-00
+[redacted],DB [postgres]: Temp_files created per second,0,,2025-06-17_21-00
+[redacted],DB [postgres]: Temp_bytes written per second,0,B,2025-06-17_21-00
+[redacted],DB [postgres]: Backends connected,2,,2025-06-17_21-00
+[redacted],DB [postgres]: Detected deadlocks per second,0,,2025-06-17_21-00
+[redacted],DB [postgres]: Detected conflicts per second,0,,2025-06-17_21-00
+[redacted],DB [postgres]: Checksum failures,0,,2025-06-17_21-00
+[redacted],DB [postgres]: Disk blocks write time,0,s,2025-06-17_21-00
+[redacted],DB [postgres]: Disk blocks read time per second,0,s,2025-06-17_21-00
+[redacted],DB [postgres]: Blocks hit per second,1.4666673278158537,,2025-06-17_21-00
+[redacted],DB [postgres]: Disk blocks read per second,0,,2025-06-17_21-00
+[redacted],DB [zabbix]: Get dbstat,,,2025-06-17_21-00
+[redacted],DB [zabbix]: Rollbacks per second,0,,2025-06-17_21-00
+[redacted],DB [zabbix]: Commits per second,13.466672737218293,,2025-06-17_21-00
+[redacted],DB [zabbix]: Tuples updated per second,0.3166668094147866,,2025-06-17_21-00
+[redacted],DB [zabbix]: Tuples returned per second,1949.4342121057857,,2025-06-17_21-00
+[redacted],DB [zabbix]: Tuples inserted per second,13.333339343780487,,2025-06-17_21-00
+[redacted],DB [zabbix]: Tuples fetched per second,36.533349801958536,,2025-06-17_21-00
+[redacted],DB [zabbix]: Tuples deleted per second,0,,2025-06-17_21-00
+[redacted],DB [zabbix]: Temp_files created per second,0,,2025-06-17_21-00
+[redacted],DB [zabbix]: Temp_bytes written per second,0,B,2025-06-17_21-00
+[redacted],DB [zabbix]: Backends connected,25,,2025-06-17_21-00
+[redacted],DB [zabbix]: Detected deadlocks per second,0,,2025-06-17_21-00
+[redacted],DB [zabbix]: Detected conflicts per second,0,,2025-06-17_21-00
+[redacted],DB [zabbix]: Checksum failures,0,,2025-06-17_21-00
+[redacted],DB [zabbix]: Disk blocks write time,0,s,2025-06-17_21-00
+[redacted],DB [zabbix]: Disk blocks read time per second,0,s,2025-06-17_21-00
+[redacted],DB [zabbix]: Blocks hit per second,184.7667499564381,,2025-06-17_21-00
+[redacted],DB [zabbix]: Disk blocks read per second,0.15000006761753049,,2025-06-17_21-00
+[redacted],DB [synapse]: Get dbstat,,,2025-06-17_21-00
+[redacted],DB [synapse]: Rollbacks per second,0,,2025-06-17_21-00
+[redacted],DB [synapse]: Commits per second,0.050000022539176826,,2025-06-17_21-00
+[redacted],DB [synapse]: Tuples updated per second,0,,2025-06-17_21-00
+[redacted],DB [synapse]: Tuples returned per second,21.666676433643293,,2025-06-17_21-00
+[redacted],DB [synapse]: Tuples inserted per second,0,,2025-06-17_21-00
+[redacted],DB [synapse]: Tuples fetched per second,0.23333343851615854,,2025-06-17_21-00
+[redacted],DB [synapse]: Tuples deleted per second,0,,2025-06-17_21-00
+[redacted],DB [synapse]: Temp_files created per second,0,,2025-06-17_21-00
+[redacted],DB [synapse]: Temp_bytes written per second,0,B,2025-06-17_21-00
+[redacted],DB [synapse]: Backends connected,1,,2025-06-17_21-00
+[redacted],DB [synapse]: Detected deadlocks per second,0,,2025-06-17_21-00
+[redacted],DB [synapse]: Detected conflicts per second,0,,2025-06-17_21-00
+[redacted],DB [synapse]: Checksum failures,0,,2025-06-17_21-00
+[redacted],DB [synapse]: Disk blocks write time,0,s,2025-06-17_21-00
+[redacted],DB [synapse]: Disk blocks read time per second,0,s,2025-06-17_21-00
+[redacted],DB [synapse]: Blocks hit per second,1.4666673278158537,,2025-06-17_21-00
+[redacted],DB [synapse]: Disk blocks read per second,0,,2025-06-17_21-00
+[redacted],DB [postgres]: Get locks,,,2025-06-17_21-00
+[redacted],DB [postgres]: Num of locks total,1,,2025-06-17_21-00
+[redacted],DB [postgres]: Num of share locks,0,,2025-06-17_21-00
+[redacted],DB [postgres]: Num of shareupdateexclusive locks,0,,2025-06-17_21-00
+[redacted],DB [postgres]: Num of sharerowexclusive locks,0,,2025-06-17_21-00
+[redacted],DB [postgres]: Num of rowshare locks,0,,2025-06-17_21-00
+[redacted],DB [postgres]: Num of rowexclusive locks,0,,2025-06-17_21-00
+[redacted],DB [postgres]: Num of exclusive locks,0,,2025-06-17_21-00
+[redacted],DB [postgres]: Num of accessshare locks,1,,2025-06-17_21-00
+[redacted],DB [postgres]: Num of accessexclusive locks,0,,2025-06-17_21-00
+[redacted],DB [zabbix]: Get locks,,,2025-06-17_21-00
+[redacted],DB [zabbix]: Num of locks total,0,,2025-06-17_21-00
+[redacted],DB [zabbix]: Num of share locks,0,,2025-06-17_21-00
+[redacted],DB [zabbix]: Num of shareupdateexclusive locks,0,,2025-06-17_21-00
+[redacted],DB [zabbix]: Num of sharerowexclusive locks,0,,2025-06-17_21-00
+[redacted],DB [zabbix]: Num of rowshare locks,0,,2025-06-17_21-00
+[redacted],DB [zabbix]: Num of rowexclusive locks,0,,2025-06-17_21-00
+[redacted],DB [zabbix]: Num of exclusive locks,0,,2025-06-17_21-00
+[redacted],DB [zabbix]: Num of accessshare locks,0,,2025-06-17_21-00
+[redacted],DB [zabbix]: Num of accessexclusive locks,0,,2025-06-17_21-00
+[redacted],DB [synapse]: Get locks,,,2025-06-17_21-00
+[redacted],DB [synapse]: Num of locks total,0,,2025-06-17_21-00
+[redacted],DB [synapse]: Num of share locks,0,,2025-06-17_21-00
+[redacted],DB [synapse]: Num of shareupdateexclusive locks,0,,2025-06-17_21-00
+[redacted],DB [synapse]: Num of sharerowexclusive locks,0,,2025-06-17_21-00
+[redacted],DB [synapse]: Num of rowshare locks,0,,2025-06-17_21-00
+[redacted],DB [synapse]: Num of rowexclusive locks,0,,2025-06-17_21-00
+[redacted],DB [synapse]: Num of exclusive locks,0,,2025-06-17_21-00
+[redacted],DB [synapse]: Num of accessshare locks,0,,2025-06-17_21-00
+[redacted],DB [synapse]: Num of accessexclusive locks,0,,2025-06-17_21-00
+[redacted],DB [postgres]: Get queries,,,2025-06-17_21-00
+[redacted],DB [postgres]: Queries sum transaction time,0,s,2025-06-17_21-00
+[redacted],DB [postgres]: Queries max transaction time,0,s,2025-06-17_21-00
+[redacted],DB [postgres]: Queries slow transaction count,0,,2025-06-17_21-00
+[redacted],DB [postgres]: Queries sum query time,0,s,2025-06-17_21-00
+[redacted],DB [postgres]: Queries max query time,0,s,2025-06-17_21-00
+[redacted],DB [postgres]: Queries slow query count,0,,2025-06-17_21-00
+[redacted],DB [postgres]: Queries sum maintenance time,0,s,2025-06-17_21-00
+[redacted],DB [postgres]: Queries max maintenance time,0,s,2025-06-17_21-00
+[redacted],DB [postgres]: Queries slow maintenance count,0,,2025-06-17_21-00
+[redacted],DB [zabbix]: Get queries,,,2025-06-17_21-00
+[redacted],DB [zabbix]: Queries sum transaction time,0,s,2025-06-17_21-00
+[redacted],DB [zabbix]: Queries max transaction time,0,s,2025-06-17_21-00
+[redacted],DB [zabbix]: Queries slow transaction count,0,,2025-06-17_21-00
+[redacted],DB [zabbix]: Queries sum query time,0,s,2025-06-17_21-00
+[redacted],DB [zabbix]: Queries max query time,0,s,2025-06-17_21-00
+[redacted],DB [zabbix]: Queries slow query count,0,,2025-06-17_21-00
+[redacted],DB [zabbix]: Queries sum maintenance time,0,s,2025-06-17_21-00
+[redacted],DB [zabbix]: Queries max maintenance time,0,s,2025-06-17_21-00
+[redacted],DB [zabbix]: Queries slow maintenance count,0,,2025-06-17_21-00
+[redacted],DB [synapse]: Get queries,,,2025-06-17_21-00
+[redacted],DB [synapse]: Queries sum transaction time,0,s,2025-06-17_21-00
+[redacted],DB [synapse]: Queries max transaction time,0,s,2025-06-17_21-00
+[redacted],DB [synapse]: Queries slow transaction count,0,,2025-06-17_21-00
+[redacted],DB [synapse]: Queries sum query time,0,s,2025-06-17_21-00
+[redacted],DB [synapse]: Queries max query time,0,s,2025-06-17_21-00
+[redacted],DB [synapse]: Queries slow query count,0,,2025-06-17_21-00
+[redacted],DB [synapse]: Queries sum maintenance time,0,s,2025-06-17_21-00
+[redacted],DB [synapse]: Queries max maintenance time,0,s,2025-06-17_21-00
+[redacted],DB [synapse]: Queries slow maintenance count,0,,2025-06-17_21-00
+[redacted],Interface tap104i0: Bits received,1168,bps,2025-06-17_21-00
+[redacted],Interface enp8s0: Bits received,38712,bps,2025-06-17_21-00
+[redacted],Total memory,33571307520,B,2025-06-17_21-00
+[redacted],REDACTED,REDACTED,,2025-06-17_21-00
+[redacted],Free swap space,8589930496,B,2025-06-17_21-00
+[redacted],CPU system time,1.368923,%,2025-06-17_21-00
+[redacted],CPU user time,0.085471,%,2025-06-17_21-00
+[redacted],REDACTED,REDACTED,,2025-06-17_21-00
+[redacted],System local time,1750193964,unixtime,2025-06-17_21-00
+[redacted],Operating system architecture,x86_64,,2025-06-17_21-00
+[redacted],Operating system,"Linux version 6.8.4-2-pve (build@proxmox) (gcc (Debian 12.2.0-14) 12.2.0, GNU ld (GNU Binutils for Debian) 2.40) #1 SMP PREEMPT_DYNAMIC PMX 6.8.4-2 (2024-04-10T17:36Z)",,2025-06-17_21-00
+[redacted],Number of installed packages,749,,2025-06-17_21-00
+[redacted],Free swap space in %,100,%,2025-06-17_21-00
+[redacted],Zabbix agent ping,1,,2025-06-17_21-00
+[redacted],Total swap space,8589930496,B,2025-06-17_21-00
+[redacted],REDACTED,REDACTED,,2025-06-17_21-00
+[redacted],System uptime,100516,uptime,2025-06-17_21-00
+[redacted],Number of logged in users,0,,2025-06-17_21-00
+[redacted],Checksum of /etc/passwd,db22d70e0ab6919560ad2cb27dfa2875537cd8bce3c618aa82f1ab2407970dd6,,2025-06-17_21-00
+[redacted],Available memory,12931538944,B,2025-06-17_21-00
+[redacted],Available memory in %,38.507123,%,2025-06-17_21-00
+[redacted],CPU steal time,0,%,2025-06-17_21-00
+[redacted],CPU softirq time,0.002803,%,2025-06-17_21-00
+[redacted],CPU nice time,0,%,2025-06-17_21-00
+[redacted],Load average (1m avg),1.099121,,2025-06-17_21-00
+[redacted],Version of Zabbix agent running,7.2.5,,2025-06-17_21-00
+[redacted],Maximum number of open file descriptors,9223372036854775807,,2025-06-17_21-00
+[redacted],Maximum number of processes,4194304,,2025-06-17_21-00
+[redacted],Number of processes,330,,2025-06-17_21-00
+[redacted],Number of running processes,1,,2025-06-17_21-00
+[redacted],System boot time,1750093486,unixtime,2025-06-17_21-00
+[redacted],Interrupts per second,11508.026660255608,,2025-06-17_21-00
+[redacted],Load average (5m avg),1.006348,,2025-06-17_21-00
+[redacted],CPU iowait time,0.00841,%,2025-06-17_21-00
+[redacted],Load average (15m avg),1.256348,,2025-06-17_21-00
+[redacted],Number of CPUs,12,,2025-06-17_21-00
+[redacted],Context switches per second,18028.453531322873,,2025-06-17_21-00
+[redacted],CPU guest time,4.900133,%,2025-06-17_21-00
+[redacted],CPU guest nice time,0,%,2025-06-17_21-00
+[redacted],CPU idle time,93.648902,%,2025-06-17_21-00
+[redacted],CPU interrupt time,0,%,2025-06-17_21-00
+[redacted],Zabbix agent availability,1,,2025-06-17_21-00
+[redacted],Get filesystems,,,2025-06-17_21-00
+[redacted],CPU utilization,6.351097999999993,%,2025-06-17_21-00
+[redacted],Memory utilization,61.492877,%,2025-06-17_21-00
+[redacted],FS [/]: Get data,"{""fsname"":""/"",""options"":""rw,relatime,errors=remount-ro"",""bytes"":{""used"":12878188544,""free"":82812801024,""total"":100861726720,""pused"":13.458099,""pfree"":86.541901},""fstype"":""ext4"",""inodes"":{""used"":56157,""free"":6235299,""total"":6291456,""pused"":0.892591,""pfree"":99.107409}}",,2025-06-17_21-00
+[redacted],FS [/]: Space: Available,82812801024,B,2025-06-17_21-00
+[redacted],FS [/]: Option: Read-only,0,,2025-06-17_21-00
+[redacted],FS [/]: Space: Used,12878188544,B,2025-06-17_21-00
+[redacted],FS [/]: Space: Total,100861726720,B,2025-06-17_21-00
+[redacted],"FS [/]: Space: Used, in %",13.458099,%,2025-06-17_21-00
+[redacted],"FS [/]: Inodes: Free, in %",99.107409,%,2025-06-17_21-00
+[redacted],Interface vmbr0: Bits received,12992,bps,2025-06-17_21-00
+[redacted],Interface tap101i0: Bits received,1848,bps,2025-06-17_21-00
+[redacted],Interface tailscale0: Bits received,2504,bps,2025-06-17_21-00
+[redacted],Interface enp8s0: Outbound packets discarded,0,,2025-06-17_21-00
+[redacted],Interface vmbr0: Outbound packets discarded,0,,2025-06-17_21-00
+[redacted],Interface tap101i0: Outbound packets discarded,0,,2025-06-17_21-00
+[redacted],Interface tailscale0: Outbound packets discarded,0,,2025-06-17_21-00
+[redacted],Interface enp8s0: Inbound packets discarded,0,,2025-06-17_21-00
+[redacted],Interface vmbr0: Inbound packets discarded,0,,2025-06-17_21-00
+[redacted],Interface tap101i0: Inbound packets discarded,0,,2025-06-17_21-00
+[redacted],Interface tailscale0: Inbound packets discarded,0,,2025-06-17_21-00
+[redacted],Interface enp8s0: Inbound packets with errors,0,,2025-06-17_21-00
+[redacted],Interface vmbr0: Inbound packets with errors,0,,2025-06-17_21-00
+[redacted],Interface tap101i0: Inbound packets with errors,0,,2025-06-17_21-00
+[redacted],Interface tailscale0: Inbound packets with errors,0,,2025-06-17_21-00
+[redacted],Interface enp8s0: Outbound packets with errors,0,,2025-06-17_21-00
+[redacted],Interface vmbr0: Outbound packets with errors,0,,2025-06-17_21-00
+[redacted],Interface tap101i0: Outbound packets with errors,0,,2025-06-17_21-00
+[redacted],Interface tailscale0: Outbound packets with errors,0,,2025-06-17_21-00
+[redacted],Interface enp8s0: Bits sent,22432,bps,2025-06-17_21-00
+[redacted],Interface vmbr0: Bits sent,9208,bps,2025-06-17_21-00
+[redacted],Interface tap101i0: Bits sent,10472,bps,2025-06-17_21-00
+[redacted],Interface tailscale0: Bits sent,3512,bps,2025-06-17_21-00
+[redacted],Interface enp8s0: Operational status,6,,2025-06-17_21-00
+[redacted],Interface vmbr0: Operational status,6,,2025-06-17_21-00
+[redacted],Interface tailscale0: Operational status,0,,2025-06-17_21-00
+[redacted],Interface enp8s0: Interface type,1,,2025-06-17_21-00
+[redacted],Interface vmbr0: Interface type,1,,2025-06-17_21-00
+[redacted],Interface tap101i0: Interface type,1,,2025-06-17_21-00
+[redacted],Interface tailscale0: Interface type,65534,,2025-06-17_21-00
+[redacted],Interface enp8s0: Speed,1000000000,bps,2025-06-17_21-00
+[redacted],Interface vmbr0: Speed,10000000000,bps,2025-06-17_21-00
+[redacted],Interface tap101i0: Speed,10000000000,bps,2025-06-17_21-00
+[redacted],Interface tap104i0: Inbound packets with errors,0,,2025-06-17_21-00
+[redacted],Interface tap104i0: Interface type,1,,2025-06-17_21-00
+[redacted],Interface tap104i0: Inbound packets discarded,0,,2025-06-17_21-00
+[redacted],Interface tap104i0: Bits sent,10832,bps,2025-06-17_21-00
+[redacted],Interface tap104i0: Operational status,0,,2025-06-17_21-00
+[redacted],Interface tap101i0: Operational status,0,,2025-06-17_21-00
+[redacted],nvme0n1: Get stats,,,2025-06-17_21-00
+[redacted],nvme0n1: Disk write time (rate),0.002983371941447965,,2025-06-17_21-00
+[redacted],nvme0n1: Disk write rate,28.917040884984463,!w/s,2025-06-17_21-00
+[redacted],nvme0n1: Disk utilization,0.5350069235780988,%,2025-06-17_21-00
+[redacted],nvme0n1: Disk read time (rate),0.0003833382941525318,,2025-06-17_21-00
+[redacted],nvme0n1: Disk read rate,0.700009058887232,!r/s,2025-06-17_21-00
+[redacted],nvme0n1: Disk average queue size (avgqu-sz),0.004650060176893755,,2025-06-17_21-00
+[redacted],nvme0n1: Disk read request avg waiting time (r_await),0.5675675675675677,!ms,2025-06-17_21-00
+[redacted],nvme0n1: Disk write request avg waiting time (w_await),0.13623673925181462,!ms,2025-06-17_21-00
+[redacted],Interface tap104i0: Outbound packets discarded,0,,2025-06-17_21-00
+[redacted],Interface tap106i0: Bits received,8264,bps,2025-06-17_21-00
+[redacted],Interface tap106i0: Interface type,1,,2025-06-17_21-00
+[redacted],Interface tap106i0: Speed,10000000000,bps,2025-06-17_21-00
+[redacted],Interface tap104i0: Speed,10000000000,bps,2025-06-17_21-00
+[redacted],Interface tap104i0: Outbound packets with errors,0,,2025-06-17_21-00
+[redacted],Interface tap106i0: Operational status,0,,2025-06-17_21-00
+[redacted],Interface tap106i0: Outbound packets discarded,0,,2025-06-17_21-00
+[redacted],Interface tap106i0: Inbound packets discarded,0,,2025-06-17_21-00
+[redacted],Interface tap106i0: Inbound packets with errors,0,,2025-06-17_21-00
+[redacted],Interface tap106i0: Outbound packets with errors,0,,2025-06-17_21-00
+[redacted],Interface tap106i0: Bits sent,16776,bps,2025-06-17_21-00
+[redacted],Total memory,2025361408,B,2025-06-17_21-00
+[redacted],REDACTED,REDACTED,,2025-06-17_21-00
+[redacted],Free swap space,0,B,2025-06-17_21-00
+[redacted],CPU system time,0.1001,%,2025-06-17_21-00
+[redacted],CPU user time,0.091758,%,2025-06-17_21-00
+[redacted],REDACTED,REDACTED,,2025-06-17_21-00
+[redacted],System local time,1750193954,unixtime,2025-06-17_21-00
+[redacted],Operating system architecture,x86_64,,2025-06-17_21-00
+[redacted],Operating system,"Linux version 6.1.0-29-cloud-amd64 (debian-kernel@lists.debian.org) (gcc-12 (Debian 12.2.0-14) 12.2.0, GNU ld (GNU Binutils for Debian) 2.40) #1 SMP PREEMPT_DYNAMIC Debian 6.1.123-1 (2025-01-02)",,2025-06-17_21-00
+[redacted],Number of installed packages,590,,2025-06-17_21-00
+[redacted],Free swap space in %,100,%,2025-06-17_21-00
+[redacted],Zabbix agent ping,1,,2025-06-17_21-00
+[redacted],Total swap space,0,B,2025-06-17_21-00
+[redacted],REDACTED,REDACTED,,2025-06-17_21-00
+[redacted],System uptime,12257991,uptime,2025-06-17_21-00
+[redacted],Number of logged in users,0,,2025-06-17_21-00
+[redacted],Checksum of /etc/passwd,0d1d2bb0506e94c06551d90b4007c705dc7ec766532b2fbce25a36f889d8b7d4,,2025-06-17_21-00
+[redacted],Available memory,1175805952,B,2025-06-17_21-00
+[redacted],Available memory in %,58.05413,%,2025-06-17_21-00
+[redacted],CPU steal time,0.00834,%,2025-06-17_21-00
+[redacted],CPU softirq time,0.016679,%,2025-06-17_21-00
+[redacted],CPU nice time,0,%,2025-06-17_21-00
+[redacted],Load average (1m avg),0,,2025-06-17_21-00
+[redacted],Version of Zabbix agent running,7.2.4,,2025-06-17_21-00
+[redacted],Maximum number of open file descriptors,9223372036854775807,,2025-06-17_21-00
+[redacted],Maximum number of processes,4194304,,2025-06-17_21-00
+[redacted],Number of processes,97,,2025-06-17_21-00
+[redacted],Number of running processes,1,,2025-06-17_21-00
+[redacted],System boot time,1737936001,unixtime,2025-06-17_21-00
+[redacted],Interrupts per second,152.93553848792246,,2025-06-17_21-00
+[redacted],Load average (5m avg),0,,2025-06-17_21-00
+[redacted],CPU iowait time,0.008342,%,2025-06-17_21-00
+[redacted],Load average (15m avg),0,,2025-06-17_21-00
+[redacted],Number of CPUs,2,,2025-06-17_21-00
+[redacted],Context switches per second,221.65508538829303,,2025-06-17_21-00
+[redacted],CPU guest time,0,%,2025-06-17_21-00
+[redacted],CPU guest nice time,0,%,2025-06-17_21-00
+[redacted],CPU idle time,99.808109,%,2025-06-17_21-00
+[redacted],CPU interrupt time,0,%,2025-06-17_21-00
+[redacted],Zabbix agent availability,1,,2025-06-17_21-00
+[redacted],Get filesystems,,,2025-06-17_21-00
+[redacted],CPU utilization,0.19189099999999826,%,2025-06-17_21-00
+[redacted],Memory utilization,41.94587,%,2025-06-17_21-00
+[redacted],sda: Get stats,,,2025-06-17_21-00
+[redacted],sda: Disk write time (rate),0.0008500097305997258,,2025-06-17_21-00
+[redacted],sda: Disk write rate,3.216703490308766,!w/s,2025-06-17_21-00
+[redacted],sda: Disk utilization,0,%,2025-06-17_21-00
+[redacted],sda: Disk read time (rate),0,,2025-06-17_21-00
+[redacted],sda: Disk read rate,0,!r/s,2025-06-17_21-00
+[redacted],sda: Disk average queue size (avgqu-sz),0.0009000103029879449,,2025-06-17_21-00
+[redacted],Interface ens3: Bits received,8256,bps,2025-06-17_21-00
+[redacted],Interface tailscale0: Bits received,1824,bps,2025-06-17_21-00
+[redacted],Interface ens3: Outbound packets discarded,0,,2025-06-17_21-00
+[redacted],Interface tailscale0: Outbound packets discarded,0,,2025-06-17_21-00
+[redacted],Interface ens3: Inbound packets discarded,0,,2025-06-17_21-00
+[redacted],Interface tailscale0: Inbound packets discarded,0,,2025-06-17_21-00
+[redacted],Interface ens3: Inbound packets with errors,0,,2025-06-17_21-00
+[redacted],Interface tailscale0: Inbound packets with errors,0,,2025-06-17_21-00
+[redacted],Interface ens3: Outbound packets with errors,0,,2025-06-17_21-00
+[redacted],Interface tailscale0: Outbound packets with errors,0,,2025-06-17_21-00
+[redacted],Interface ens3: Bits sent,11392,bps,2025-06-17_21-00
+[redacted],Interface tailscale0: Bits sent,3216,bps,2025-06-17_21-00
+[redacted],Interface ens3: Operational status,6,,2025-06-17_21-00
+[redacted],Interface tailscale0: Operational status,0,,2025-06-17_21-00
+[redacted],Interface ens3: Interface type,1,,2025-06-17_21-00
+[redacted],Interface tailscale0: Interface type,65534,,2025-06-17_21-00
+[redacted],FS [/]: Get data,"{""fsname"":""/"",""options"":""rw,relatime,discard,errors=remount-ro"",""bytes"":{""used"":7347646464,""free"":33001353216,""total"":42098429952,""pused"":18.210232,""pfree"":81.789768},""fstype"":""ext4"",""inodes"":{""used"":50316,""free"":2562932,""total"":2613248,""pused"":1.92542,""pfree"":98.07458}}",,2025-06-17_21-00
+[redacted],FS [/]: Space: Available,33001353216,B,2025-06-17_21-00
+[redacted],FS [/]: Option: Read-only,0,,2025-06-17_21-00
+[redacted],FS [/]: Space: Used,7347646464,B,2025-06-17_21-00
+[redacted],FS [/]: Space: Total,42098429952,B,2025-06-17_21-00
+[redacted],"FS [/]: Space: Used, in %",18.210232,%,2025-06-17_21-00
+[redacted],"FS [/]: Inodes: Free, in %",98.07458,%,2025-06-17_21-00
+[redacted],sda: Disk read request avg waiting time (r_await),0,!ms,2025-06-17_21-00
+[redacted],sda: Disk write request avg waiting time (w_await),0.30000000000000004,!ms,2025-06-17_21-00
